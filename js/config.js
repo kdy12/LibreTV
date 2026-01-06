@@ -158,7 +158,8 @@ const API_SITES = {
          adult: true
      },
      huangcang: {
-         api: 'https://hsckzy.vip/api.php/provide/vod',
+    //     api: 'https://hsckzy.vip/api.php/provide/vod',
+         api: 'https://hsckzy888.com/api.php/provide/vod',
          name: '黄色仓库',
          adult: true,
    //      detail: 'https://hsckzy.vip/api.php/provide/vod'
