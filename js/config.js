@@ -204,6 +204,12 @@ const API_SITES = {
          name: '豆豆资源',
          adult: true
      },
+    xjzy: {
+         api: 'https://api.xjzyapi.xyz/provide/vod',
+         name: '小鸡资源',
+         adult: true
+     },
+    
     // 下面是资源失效率高的API源，不建议使用
      subo: {
          api: 'https://subocaiji.com/api.php/provide/vod',
