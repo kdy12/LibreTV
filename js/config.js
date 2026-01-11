@@ -186,12 +186,17 @@ const API_SITES = {
      },
     jpzy91: {
          api: 'https://91jpzyw.com/api.php/provide/vod/at/json',
-         name: '91精品资源',
+         name: '91精品',
          adult: true
      },
     xzyz: {
          api: 'https://xzybb1.com/api.php/provide/vod',
          name: '幸资源',
+         adult: true
+     },
+    nxx: {
+         api: 'https://naixxzy.com/api.php/provide/vod',
+         name: '奶香香',
          adult: true
      },
     // 下面是资源失效率高的API源，不建议使用
