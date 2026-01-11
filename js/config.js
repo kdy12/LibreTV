@@ -189,7 +189,11 @@ const API_SITES = {
          name: '91精品资源',
          adult: true
      },
-
+    xzyz: {
+         api: 'https://xzybb1.com/api.php/provide/vod',
+         name: '幸资源',
+         adult: true
+     },
     // 下面是资源失效率高的API源，不建议使用
      subo: {
          api: 'https://subocaiji.com/api.php/provide/vod',
