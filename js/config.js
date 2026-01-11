@@ -175,6 +175,11 @@ const API_SITES = {
          name: '玉兔资源',
          adult: true
      },
+    hlzyw: {
+         api: 'https://www.heiliaozyapi.com/api.php/provide/vod',
+         name: '黑料资源网',
+         adult: true
+     },
 
     // 下面是资源失效率高的API源，不建议使用
      subo: {
