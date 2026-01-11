@@ -199,6 +199,11 @@ const API_SITES = {
          name: '奶香香',
          adult: true
      },
+    ddzy: {
+         api: 'https://api.douapi.cc/api.php/provide/vod',
+         name: '豆豆资源',
+         adult: true
+     },
     // 下面是资源失效率高的API源，不建议使用
      subo: {
          api: 'https://subocaiji.com/api.php/provide/vod',
