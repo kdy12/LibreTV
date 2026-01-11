@@ -111,12 +111,16 @@ const API_SITES = {
         name: 'iKun资源'
     },
     lzi: {
-        api: 'https://cj.lziapi.com/api.php/provide/vod/',
+        api: 'https://cj.lziapi.com/api.php/provide/vod',
         name: '量子资源站'
     },
     mtzy: {
-        api: 'https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/',
+        api: 'https://caiji.maotaizy.cc/api.php/provide/vod',
         name: '茅台资源'
+    },
+    mtzy: {
+        api: '	https://www.huyaapi.com/api.php/provide/vod',
+        name: '虎牙资源'
     },
     
 //    testSource: {
