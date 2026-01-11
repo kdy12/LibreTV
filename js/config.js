@@ -177,7 +177,12 @@ const API_SITES = {
      },
     hlzyw: {
          api: 'https://www.heiliaozyapi.com/api.php/provide/vod',
-         name: '黑料资源网',
+         name: '黑料资源',
+         adult: true
+     },
+    jpzy91: {
+         api: 'https://91jpzyw.com/api.php/provide/vod/at/json',
+         name: '91精品资源',
          adult: true
      },
 
